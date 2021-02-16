@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EndijsD
 - 👀 I’m interested in all sorts of programming - game development, app development, web development and just playing games
-- 🌱 I’m currently learning Git and GitHub, Python, Unity (C#), all basics
+- 🌱 I’m currently learning Git and GitHub, Python, Unity (C#) - all basics
 - 📫 How to reach me - endijsdarznieks@inbox.lv
 
 <!---
